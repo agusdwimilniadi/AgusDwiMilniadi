@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/agusdwimilniadi/AgusDwiMilniadi/3e1cb41221d939e9417f19d162c85f914ccef837/Header.svg "Header")](http://agusdwimilniadi.me/)
 
-# Hello! <img src="https://raw.githubusercontent.com/agusdwimilniadi/AgusDwiMilniadi/main/waving-wave.gif" width="30px">
+# Hello! :wave:
 
 My name is Agus Dwi and I'm a Frontend Developer. I'm from Indonesia, and currently studying at University of Jember major of Informatics. You can find me on [![LinkedIn][3.2]][3].
 
@@ -33,7 +33,6 @@ My name is Agus Dwi and I'm a Frontend Developer. I'm from Indonesia, and curren
 
 [1.2]: https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png (IG icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
