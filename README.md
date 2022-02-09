@@ -34,6 +34,8 @@ My name is Agus Dwi and I'm a Frontend Developer. I'm from Indonesia, and curren
 [1.2]: https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png (IG icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
+[3.2]: https://simpleicons.org/icons/linkedin.svg
+
 
 <!-- links to your social media accounts -->
 
