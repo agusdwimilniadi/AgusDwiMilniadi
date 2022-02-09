@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/agusdwimilniadi/AgusDwiMilniadi/main/waving-wave.gif" width="30px">
 
-My name is Agus Dwi and I'm a Frontend Developer. I'm from Indonesia, and currently studying at University of Jember major of Informatics. You can find me on [![Intagram][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Agus Dwi and I'm a Frontend Developer. I'm from Indonesia, and currently studying at University of Jember major of Informatics. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
