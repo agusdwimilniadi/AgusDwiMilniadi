@@ -42,7 +42,7 @@ My name is Agus Dwi, and I'm a Frontend Developer. I'm from Indonesia and curren
 [1]: https://instagram.com/agusdwimilniadi
 [2]: https://github.com/agusdwimilniadi
 [3]: https://www.linkedin.com/in/agusdwimilniadi/
-[7]: https://agusdwimilniadi.me/
+[7]: https://agusdm.lightsoft.id/
 
 
 <!-- Resources -->
