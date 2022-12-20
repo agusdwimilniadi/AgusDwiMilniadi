@@ -4,6 +4,10 @@
 
 My name is Agus Dwi, and I'm a Frontend Developer. I'm from Indonesia and currently studying at the University of Jember, majoring in Informatics. You can find me on [Website][7] or [LinkedIn][3].
 
+Pernah pakai :
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
