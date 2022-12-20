@@ -17,7 +17,6 @@ My name is Agus Dwi, and I'm a Frontend Developer. I'm from Indonesia and curren
 ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
